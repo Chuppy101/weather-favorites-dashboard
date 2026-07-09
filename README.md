@@ -8,7 +8,6 @@ Frontend **не обращается напрямую** к Open-Meteo. Все в
 
 ---
 <img width="1618" height="1263" alt="image" src="https://github.com/user-attachments/assets/615b95e6-4215-40d4-881b-7788163f467f" />
----
 
 ## Запуск проекта
 
